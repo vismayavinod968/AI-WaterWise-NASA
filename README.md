@@ -216,3 +216,14 @@ Explore the AI WaterWise Kerala interactive dashboard:
 [Click here to open AI WaterWise Kerala](https://ai-waterwise-nasa-hpjahyr7gbc3xglx796vk4.streamlit.app/)
 
 The dashboard allows users to select Kerala districts and explore rainfall, temperature, AI anomaly detection, and drought risk assessment results.
+
+
+## 📝 Conclusion
+
+AI WaterWise Kerala is an environmental monitoring and smart farming support system developed using NASA POWER historical weather data and Artificial Intelligence.
+
+The project analyzes rainfall and temperature patterns across 14 districts of Kerala and identifies unusual weather conditions using the Isolation Forest algorithm.
+
+It also provides prototype drought risk assessments and useful recommendations for farmers through an interactive Streamlit dashboard.
+
+This project aims to support sustainable agriculture, efficient water management, and better understanding of environmental changes in Kerala.
