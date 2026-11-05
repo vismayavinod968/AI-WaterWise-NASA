@@ -126,3 +126,93 @@ Interactive Streamlit Dashboard
 5. Farmer recommendations are generated based on the analysis.
 6. Streamlit displays the results through an interactive dashboard.
 
+
+## 🤖 AI Model Explanation
+
+This project uses the **Isolation Forest algorithm**, an unsupervised machine learning technique.
+
+### How It Works
+
+1. The model receives historical rainfall and temperature data.
+2. It analyzes patterns in the collected weather data.
+3. It identifies unusual weather conditions (anomalies).
+4. The detected anomalies are used in the drought risk assessment process.
+
+### Why Isolation Forest?
+
+- Suitable for detecting unusual data patterns.
+- Does not require manually labelled training data.
+- Helps identify abnormal rainfall and temperature conditions.
+
+**Note:** The model identifies unusual patterns in historical data. It does not predict future weather conditions.
+
+
+## 🌵 Drought Risk Assessment
+
+The system assesses potential drought risk by analyzing rainfall anomalies and AI anomaly detection results.
+
+### Risk Categories
+
+- **Normal:** Rainfall conditions do not indicate significant dryness.
+- **Watch:** Unusual rainfall conditions require attention and monitoring.
+- **Severe Dry Conditions:** Significant rainfall deficiency combined with unusual weather patterns.
+
+### Assessment Process
+
+1. Analyze monthly rainfall values.
+2. Calculate rainfall anomalies.
+3. Check the AI anomaly detection results.
+4. Apply prototype rules to estimate drought risk.
+5. Display the risk category on the dashboard.
+
+**Note:** These categories are experimental prototype assessments and are not official drought warnings.
+
+
+## 📊 Results and Output
+
+The system analyzes historical rainfall and temperature data from 14 districts of Kerala.
+
+The dashboard provides:
+
+- District-wise rainfall analysis.
+- Monthly temperature analysis.
+- AI-based unusual weather pattern detection.
+- Drought risk classification.
+- Farmer recommendations.
+- Interactive charts and visualizations.
+
+Users can select a district and year to explore the corresponding environmental data and analysis results.
+
+The results are displayed through an interactive Streamlit dashboard.
+
+
+## ⚠️ Limitations
+
+- The analysis uses one representative geographical coordinate for each district, not measurements from every location in the district.
+- NASA POWER data is historical and does not represent real-time local weather conditions.
+- The Isolation Forest model identifies unusual patterns but does not forecast future weather.
+- Drought risk categories are based on experimental prototype rules and are not official drought warnings.
+- Data availability for 2026 may be incomplete.
+
+
+## 🚀 Future Scope
+
+The project can be improved further with the following features:
+
+- **Weather Prediction:** Integrate advanced machine learning models to predict future weather conditions.
+- **Improved AI Analysis:** Develop more accurate drought risk assessment models.
+- **Real-Time Monitoring:** Integrate IoT-based weather sensors for real-time environmental data.
+- **Mobile Application:** Develop a mobile app for farmers to access weather information.
+- **Multilingual Alerts:** Provide recommendations and alerts in Malayalam and other regional languages.
+- **Additional NASA Data:** Integrate more NASA Earth observation datasets for better environmental analysis.
+- **Advanced Mapping:** Use geographical data to improve district-level environmental monitoring.
+
+
+
+## 🌐 Live Website
+
+Explore the AI WaterWise Kerala interactive dashboard:
+
+[Click here to open AI WaterWise Kerala](https://ai-waterwise-nasa-hpjahyr7gbc3xglx796vk4.streamlit.app/)
+
+The dashboard allows users to select Kerala districts and explore rainfall, temperature, AI anomaly detection, and drought risk assessment results.
