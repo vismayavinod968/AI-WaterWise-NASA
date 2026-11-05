@@ -317,7 +317,7 @@ This chart shows the monthly rainfall distribution for the selected district.
 
 This chart displays the monthly average temperature for the selected district.
 
-![Monthly Temperature]
+![Monthly Temperature](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/monthly-average-temperature.png)
 
 
 
@@ -329,7 +329,7 @@ This chart displays the monthly average temperature for the selected district.
 
 This chart represents the distribution of drought risk categories.
 
-![Drought Risk](drought_risk_chart.png)
+![Drought Risk]
 
 
 
