@@ -277,4 +277,13 @@ We also thank the developers of Python, Pandas, Scikit-learn, Streamlit, and Plo
 
 Finally, we thank our teachers, mentors, and everyone who supported us in developing AI WaterWise Kerala.
 
+## 📚 References
+
+1. NASA POWER Data Portal: https://power.larc.nasa.gov/
+2. Python Documentation: https://docs.python.org/3/
+3. Pandas Documentation: https://pandas.pydata.org/docs/
+4. Scikit-learn Documentation: https://scikit-learn.org/stable/
+5. Streamlit Documentation: https://docs.streamlit.io/
+6. Plotly Documentation: https://plotly.com/python/
+
 
