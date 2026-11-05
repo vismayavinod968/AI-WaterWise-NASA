@@ -360,4 +360,4 @@ The system provides month-wise recommendations based on rainfall patterns and dr
 
 
 ## Detailed Datasets
-![Detailed Datasets](
+![Detailed Datasets](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/detailed_dataset.png)
