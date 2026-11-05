@@ -297,4 +297,10 @@ Finally, we thank our teachers, mentors, and everyone who supported us in develo
 
 
 ## ⚙️ Methodology Flowchart
-![Methodology Flowchart](
+![Methodology Flowchart](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/Methodology.png)
+
+
+## 🤖 AI Model Workflow Diagram
+
+![AI Model Workflow]()
+
