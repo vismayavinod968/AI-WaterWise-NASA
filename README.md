@@ -309,4 +309,4 @@ Finally, we thank our teachers, mentors, and everyone who supported us in develo
 
 This chart shows the monthly rainfall distribution for the selected district.
 
-![Monthly Rainfall Chart](
+![Monthly Rainfall Chart](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/monthly-rainfall%20(1).png)
