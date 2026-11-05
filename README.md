@@ -287,3 +287,7 @@ Finally, we thank our teachers, mentors, and everyone who supported us in develo
 6. Plotly Documentation: https://plotly.com/python/
 
 
+## 🏗️ System Architecture Diagram
+
+![System Architecture](
+
