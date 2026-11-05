@@ -289,5 +289,5 @@ Finally, we thank our teachers, mentors, and everyone who supported us in develo
 
 ## 🏗️ System Architecture Diagram
 
-![System Architecture](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/System%20architecture%20.png))
+![System Architecture](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/System%20architecture%20.png)
 
