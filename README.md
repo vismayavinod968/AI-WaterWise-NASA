@@ -304,3 +304,9 @@ Finally, we thank our teachers, mentors, and everyone who supported us in develo
 
 ![AI Model Workflow](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/Ai%20%20model%20workflow%20diagram.png)
 
+
+## 🌧️ Monthly Rainfall Analysis
+
+This chart shows the monthly rainfall distribution for the selected district.
+
+![Monthly Rainfall Chart](
