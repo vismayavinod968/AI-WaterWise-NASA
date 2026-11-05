@@ -310,3 +310,33 @@ Finally, we thank our teachers, mentors, and everyone who supported us in develo
 This chart shows the monthly rainfall distribution for the selected district.
 
 ![Monthly Rainfall Chart](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/monthly-rainfall%20(1).png)
+
+
+
+## 🌡️ Monthly Temperature Analysis
+
+This chart displays the monthly average temperature for the selected district.
+
+![Monthly Temperature]
+
+
+
+
+
+
+
+## 💧 Drought Risk Analysis
+
+This chart represents the distribution of drought risk categories.
+
+![Drought Risk](drought_risk_chart.png)
+
+
+
+
+## 🤖 AI Anomaly Detection Results
+
+This chart displays the AI status distribution.
+
+![AI Status Distribution](weather_anomaly_chart.png)
+
