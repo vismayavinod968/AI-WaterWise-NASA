@@ -355,4 +355,4 @@ The AI WaterWise Kerala dashboard provides district-wise rainfall, temperature, 
 
 The system provides month-wise recommendations based on rainfall patterns and drought risk assessment to support better agricultural and water management decisions.
 
-![Farmer Recommendations]()
+![Farmer Recommendations](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/farmer_recommendations.png)
