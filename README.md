@@ -340,3 +340,10 @@ This chart displays the AI status distribution.
 
 ![AI Status Distribution](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/normal-vs-unusual-weather-conditions.png)
 
+
+## 🖥️ Main Dashboard
+
+The AI WaterWise Kerala dashboard provides district-wise rainfall, temperature, and AI-based weather analysis.
+
+![Main Dashboard]()
+
