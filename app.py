@@ -38,9 +38,9 @@ districts = sorted(df["Location"].unique())
 
 selected_district = st.sidebar.selectbox(
     "Select Kerala District",
-    districts
+    districts,
+    index=districts.index("Palakkad")
 )
-
 district_df = df[
     df["Location"] == selected_district
 ].copy()
