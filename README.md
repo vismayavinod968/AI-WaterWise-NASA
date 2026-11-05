@@ -338,5 +338,5 @@ This chart represents the distribution of drought risk categories.
 
 This chart displays the AI status distribution.
 
-![AI Status Distribution]
+![AI Status Distribution](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/normal-vs-unusual-weather-conditions.png)
 
