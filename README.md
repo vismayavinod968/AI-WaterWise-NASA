@@ -359,5 +359,9 @@ The system provides month-wise recommendations based on rainfall patterns and dr
 
 
 
-## Detailed Datasets
-![Detailed Datasets](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/detailed_dataset.png)
+## 📊 Detailed Dataset
+
+The dashboard provides a detailed view of the processed monthly weather dataset, including rainfall, temperature, rainfall anomalies, and related weather information.
+
+![Detailed Dataset](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/detailed_dataset.png)
+
