@@ -345,5 +345,5 @@ This chart displays the AI status distribution.
 
 The AI WaterWise Kerala dashboard provides district-wise rainfall, temperature, and AI-based weather analysis.
 
-![Main Dashboard]()
+![Main Dashboard](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/dashboard_screenshot.png)
 
