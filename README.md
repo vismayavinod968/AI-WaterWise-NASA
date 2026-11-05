@@ -1,2 +1,3 @@
-# AI-WaterWise-NASA
-NASA-Based AI Farming, Water Management and Environmental Monitoring System
+# 🌱 AI WaterWise Kerala
+
+### NASA-Based AI Farming, Water Management and Environmental Monitoring System
