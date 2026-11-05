@@ -329,7 +329,7 @@ This chart displays the monthly average temperature for the selected district.
 
 This chart represents the distribution of drought risk categories.
 
-![Drought Risk]
+![Drought Risk](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/drought-risk-categories.png)
 
 
 
@@ -338,5 +338,5 @@ This chart represents the distribution of drought risk categories.
 
 This chart displays the AI status distribution.
 
-![AI Status Distribution](weather_anomaly_chart.png)
+![AI Status Distribution]
 
