@@ -302,5 +302,5 @@ Finally, we thank our teachers, mentors, and everyone who supported us in develo
 
 ## 🤖 AI Model Workflow Diagram
 
-![AI Model Workflow]()
+![AI Model Workflow](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/Ai%20%20model%20workflow%20diagram.png)
 
