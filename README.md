@@ -293,4 +293,4 @@ Finally, we thank our teachers, mentors, and everyone who supported us in develo
 
 
 ## 🔄 Data Flow Diagram
-![Data Flow Diagram](https://github.com/vismayavinod968/AI-WaterWise-NASA/commit/cb1667d5db623ae3d1056b2f26307ffe91e488b7)
+![Data Flow Diagram](https://github.com/vismayavinod968/AI-WaterWise-NASA/blob/main/Data%20flow%20diagram.png)
