@@ -227,3 +227,54 @@ The project analyzes rainfall and temperature patterns across 14 districts of Ke
 It also provides prototype drought risk assessments and useful recommendations for farmers through an interactive Streamlit dashboard.
 
 This project aims to support sustainable agriculture, efficient water management, and better understanding of environmental changes in Kerala.
+
+
+## ▶️ How to Run the Project
+
+To run the AI WaterWise Kerala application, follow these steps:
+
+1. Download or clone the project repository from GitHub.
+2. Install Python on your computer.
+3. Install the required Python libraries using:
+
+   pip install -r requirements.txt
+
+4. Ensure that the following files are available in the same folder:
+   - app.py
+   - AI_WaterWise_Kerala_Final_Results.csv
+   - requirements.txt
+
+5. Open the terminal in the project folder.
+6. Run the application using:
+
+   streamlit run app.py
+
+7. Open the local URL displayed in the terminal to access the interactive dashboard.
+
+## 📁 Project Structure
+
+AI-WaterWise-NASA/
+│
+├── app.py
+├── requirements.txt
+├── AI_WaterWise_Kerala_Final_Results.csv
+└── README.md
+
+### File Description
+
+- **app.py:** Contains the Streamlit dashboard application code.
+- **requirements.txt:** Contains the required Python libraries.
+- **AI_WaterWise_Kerala_Final_Results.csv:** Contains the processed weather data and analysis results.
+- **README.md:** Provides project information and documentation.
+
+
+
+## 🙏 Acknowledgement
+
+We sincerely acknowledge NASA POWER for providing valuable historical weather and environmental data for this project.
+
+We also thank the developers of Python, Pandas, Scikit-learn, Streamlit, and Plotly for providing useful tools and technologies.
+
+Finally, we thank our teachers, mentors, and everyone who supported us in developing AI WaterWise Kerala.
+
+
